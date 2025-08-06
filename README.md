@@ -1,14 +1,11 @@
 <!-- Masterpiece README by Perplexity AI for POLISETTY SAI KRISHNA KARTHIK -->
 
 <p align="center">
-  <!-- Replace with your true banner image path! -->
-  ![3D Banner](/images/3d-banner.png)
+  <img src="https://github.com/POLISETTY_USERNAME/POLISETTY_REPO/blob/main/images/3d-banner.png?raw=true" width="900" alt="3D Banner" style="border-radius:18px;box-shadow:0 6px 30px #325bb036;">
 </p>
 
 <h1 align="center">👋 Hi, I'm <u>Polisetty Sai Krishna Karthik</u></h1>
 <p align="center"><em>Empowering Ideas with Code | Full-Stack Dev | AI Enthusiast</em></p>
-
-<!-- Animated effect SVG/gif -->
 <p align="center">
   <img src="https://cdn.svgator.com/images/2022/12/3d-animated-polygon-shape-svg.gif" width="90" alt="3D effect"/>
   <img src="https://3dicons.co/static/3dicons/3dicons.computer_1.png" width="46" alt="3D Icon" />
@@ -18,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=1677FA&center=true&width=730&lines=Let's+master+full-stack+AI+innovation!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=900&color=1677FA&center=true&width=730&lines=Let's+master+full-stack+AI+innovation!" alt="Typing SVG"/>
 </p>
 
 ---
@@ -61,8 +58,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polisettysaikrishnakarthik&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polisettysaikrishnakarthik&theme=highcontrast">
+  <img src="https://github-readme-stats.vercel.app/api?username=POLISETTY_USERNAME&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POLISETTY_USERNAME&theme=highcontrast">
 </p>
 
 ---
@@ -70,12 +67,12 @@
 ## 💡 Featured Projects
 
 ### 🎬 Movie Search Application
-![Movie App Screenshot](/images/moviesearch-mockup3d.png)
+<img src="https://github.com/POLISETTY_USERNAME/POLISETTY_REPO/blob/main/images/moviesearch-mockup3d.png?raw=true" width="500" alt="Movie App Screenshot"/>
 > ⚡ Real-time movie data, trailers, and IMDb ratings (95% accuracy)<br>
 > 📱 Mobile-first, intuitive UI/UX &nbsp;🚀 Engagement +20%
 
 ### 🗃️ Student Database Management System
-![DBMS Screenshot](/images/dbms-mockup3d.png)
+<img src="https://github.com/POLISETTY_USERNAME/POLISETTY_REPO/blob/main/images/dbms-mockup3d.png?raw=true" width="500" alt="DBMS Screenshot"/>
 > 🗂️ Efficient object-oriented CRUD for 100+ records—no redundancy<br>
 > 🥇 Java IT Specialist Certification
 
@@ -109,8 +106,8 @@
 ---
 
 <!-- Editing Tips:
-  - Replace username and image links with your own.
-  - Use actual project URLs and screenshots.
-  - Commit all referenced images to your repo for 100% reliability.
+  - Replace all POLISETTY_USERNAME and POLISETTY_REPO with your actual GitHub username and repo name!
+  - Use your real image/file names and make sure all images are uploaded to your repository.
+  - Widgets update automatically once you've personalized the code.
 -->
 
