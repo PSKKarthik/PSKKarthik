@@ -19,7 +19,7 @@
 
 🎓 **AI & ML Undergraduate** at Aditya College of Engineering and Technology  
 🖥️ **Full-Stack Developer** | **Machine Learning Enthusiast**  
-⚡ **CGPA:** 8.45/10   |   💡 Certified in Java & Azure AI Fundamentals  
+⚡ **CGPA:** 8.58/10   |   💡 Certified in Java & Azure AI Fundamentals  
 🌐 **Languages:** Python, Java, JavaScript, R, SQL
 
 > “Transforming complexity into intuitive solutions. Every line of code is an opportunity to empower.”
