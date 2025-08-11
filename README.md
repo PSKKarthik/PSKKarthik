@@ -1,64 +1,96 @@
-# 👋 Hi, I'm Polisetty Sai Krishna Karthik
+🚀 Polisetty Sai Krishna Karthik
+Full‑Stack Developer | AI Innovator | Problem Solver
+“Turning Ideas into Scalable, Intelligent Solutions”
 
-**Empowering Ideas with Code • Full-Stack Developer • AI Enthusiast**
+📌 About Me
+I’m an AI & ML Undergraduate at Aditya College of Engineering and Technology with a burning passion for building intelligent, user‑focused, and performance‑driven software solutions.
 
----
+🎓 CGPA: 8.58/10
 
-## 🚀 About Me
+🏅 Certified in Java (IT Specialist) & Azure AI Fundamentals
 
-- AI & ML Undergraduate, Aditya College of Engineering and Technology
-- CGPA: 8.58/10 | Certified: Java, Azure AI Fundamentals
-- Languages & Tech: Python, Java, JavaScript, SQL, R
-- Passion for creating innovative, user-centric software solutions
+💻 Skilled in Python, Java, JavaScript, SQL, R
 
----
+🤖 AI enthusiast specializing in Machine Learning, NLP, and Deep Learning
 
-## 🏆 Skills at a Glance
+⚡ I believe in writing clean, maintainable code, solving real-world problems, and constantly learning, building, and innovating.
 
-- AI & Machine Learning: Deep learning, NLP, model training
-- Full-Stack Development: Responsive interfaces, RESTful APIs, IMDb API integration
-- Databases: MySQL, CRUD, data modeling, no redundancy
-- Tools: Git, Azure AI, ChatGPT, Perplexity
-- Certifications: Java IT Specialist, Azure AI Fundamentals
+💼 Skills & Expertise
+💡 Artificial Intelligence & Machine Learning
+Deep Learning & NLP model building
 
----
+Training & hyperparameter tuning for high accuracy
 
-## 💡 Projects
+Data preprocessing, feature engineering, model evaluation
 
-**Movie Search Application**  
-HTML, CSS, JavaScript, OMDb & IMDb APIs  
-- Real-time movie/trailer/rating search (95% accuracy)
-- Mobile-first, intuitive UI/UX  
-- Result: Engagement boosted by 20%
+💻 Full‑Stack Development
+Responsive, mobile‑first UI/UX
 
-**Student Database Management System**  
-Java, MySQL, OOP  
-- Efficient CRUD for 100+ records, zero redundancy
-- Key for Java IT Specialist Certification
+RESTful API development & integration
 
----
+Third‑party API integration (IMDb, OMDb)
 
-## 📈 Experience & Focus
+🗄 Databases
+MySQL, advanced CRUD operations
 
-- Competitive Programming: HackerRank, CodeChef, LeetCode
-- Building on Microsoft Azure AI
-- Technical Content Creation, Latest ML Models
-- Analytical thinking, mathematics, and lifelong learning
+Data normalization & zero‑redundancy design
 
----
+Complex queries & performance optimization
 
-## 📫 Connect
+🛠 Tools & Platforms
+Git & GitHub (Version control & CI/CD basics)
 
-- Email: 22MH1A4254@acoe.edu.in
-- LinkedIn: linkedin.com/in/pskk
-- HackerRank: (add your handle)
-- CodeChef: (add your handle)
-- LeetCode: (add your handle)
+Microsoft Azure AI
 
----
+ChatGPT & Perplexity AI for AI‑assisted development
 
-**Languages:** English, Telugu, Hindi
+🚀 Featured Projects
+🎬 Movie Search Application
+Tech: HTML, CSS, JavaScript, OMDb & IMDb APIs
 
----
+Real‑time search for movies, trailers, and ratings with 95% accuracy
 
-_Your organization, speed, and skills—delivered at scale. Let's build the future together!_
+Optimized for all devices with intuitive UI/UX
+
+Boosted user engagement by 20%
+
+📚 Student Database Management System
+Tech: Java, MySQL, OOP Principles
+
+Manages 100+ student records with zero redundancy
+
+Optimized queries for faster data retrieval
+
+Key project used during Java IT Specialist Certification
+
+🏆 Achievements & Highlights
+🌟 Java IT Specialist – Internationally recognized certification
+
+☁ Azure AI Fundamentals Certified
+
+🔥 Active in Competitive Programming: HackerRank, CodeChef, LeetCode
+
+📊 Developed AI projects leveraging latest ML models
+
+🧠 Strong in analytical thinking & technical problem solving
+
+📊 Focus Areas
+🚀 AI‑powered product development
+
+⚡ High‑performance, user-centric web applications
+
+☁ Cloud‑based AI solutions on Microsoft Azure
+
+📚 Lifelong learning in tech & algorithms
+
+📫 Let’s Connect
+Email: 22MH1A4254@acoe.edu.in
+
+LinkedIn: linkedin.com/in/pskk
+
+HackerRank: (add handle)
+
+CodeChef: (add handle)
+
+LeetCode: (add handle)
+
