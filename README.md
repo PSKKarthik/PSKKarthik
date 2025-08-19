@@ -1,99 +1,101 @@
-# 🚀 Polisetty Sai Krishna Karthik
+# Hey there, I'm Polisetty Sai Krishna Karthik 👋
 
-**Full-Stack Developer -  AI/ML Engineer -  Code Architect**
+<a href="linkedin.com/in/pskk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:22MH1A4254@acoe.edu.in"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
 
-***
+### Full-Stack Developer • AI/ML Engineer • Code Architect
 
-### 💎 Professional Summary
+I am a Computer Science Engineer with deep expertise in building performance-driven cloud solutions and intelligent applications. My passion lies at the intersection of **Full-Stack Development** and **Artificial Intelligence**, where I architect and deploy code that makes a measurable impact.
 
-Computer Science Engineer with deep expertise in **AI, Machine Learning, and Full-Stack Development**. I specialize in delivering performance-driven cloud solutions and intelligent applications that make a measurable impact.
+- 🔭 I’m currently working on enhancing my Deep Learning models and building scalable web applications.
+- 🌱 I’m currently learning advanced MLOps and cloud deployment strategies.
+- 💬 Ask me about **Python, JavaScript, React, TensorFlow, or system design**.
+- 📫 How to reach me: Drop me a message on [LinkedIn](linkedin.com/in/pskk)!
 
-- **B.Tech, AI & ML** | Aditya College of Engineering & Technology | CGPA: 8.58/10
-- **Certified:** Java IT Specialist, Azure AI Fundamentals
-- **Core Languages:** Python, Java, JavaScript, SQL, R
-- **Frameworks:** React, Node.js, ExpressJS, TensorFlow, OpenCV
-- **APIs:** RESTful, OMDb, IMDb
-- **Cloud/Tools:** Azure AI, Git, GitHub, Perplexity, Postman
+---
 
-***
+## 🛠️ My Tech Stack & Tools
 
-## 🌟 Impactful Achievements
+A collection of technologies I use to bring ideas to life.
 
-- 🚀 **Web Development Intern** @ Technical Hub  
-  - Built 3+ interactive web apps, **boosting user engagement by 20%**
-  - Optimized front-end architectures, **30% faster load times**
-  - Agile collaboration, UI/UX design, & front-end stability champion
+| Category             | Technologies                                                                                                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-EA2D2E.svg?style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" /> |
+| **Web Development** | <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" /> |
+| **AI / Machine Learning** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" /> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" /> |
+| **Cloud & Tools** | <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> |
 
-- 🏆 **Competitive Programming:**  
-  - Active on HackerRank, CodeChef, LeetCode  
-  - Analytical, resilient, and solution-focused
+---
 
-***
+## 📊 My GitHub Stats
+
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+
+---
 
 ## 💡 Flagship Projects
 
-#### 🎬 **Movie Search App**
-- Realtime fetch of movies, trailers, and ratings (**OMDb API**).
-- 95% accurate result matching. Fully mobile responsive.
+Here are some of the projects I'm most proud of.
 
-#### 🧾 **Expense Tracker**
-- Dynamic personal finance tool with live summaries and transaction logs.
+<details>
+<summary>🧠 <strong>Face Emotion Recognition</strong> - Real-time emotion detection from a webcam feed.</summary>
+<br>
+A CNN-powered detector that classifies 7 different human expressions with high accuracy. Built using Python, TensorFlow, and OpenCV.
+<br><br>
+<strong>Tech Stack:</strong>
+&nbsp; <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+&nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+&nbsp; <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" />
+<br><br>
+<a href="#"><strong>View Code &rarr;</strong></a>
+</details>
 
-#### 🧠 **Face Emotion Recognition**
-- **CNN-powered detector** classifying 7 expressions via webcam + OpenCV.
+<details>
+<summary>🏋️ <strong>Full-Stack Gym Website</strong> - A responsive platform for a local gym.</summary>
+<br>
+Features user authentication, class schedules, a dynamic BMI calculator, and modular components built with RESTful APIs.
+<br><br>
+<strong>Tech Stack:</strong>
+&nbsp; <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+&nbsp; <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+&nbsp; <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
+&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+<br><br>
+<a href="#"><strong>Live Demo &rarr;</strong></a>
+&nbsp;&nbsp;
+<a href="#"><strong>View Code &rarr;</strong></a>
+</details>
 
-#### 🏋️ **Gym Website**
-- Full-stack platform with BMI calculator, modular components, RESTful APIs.
+<details>
+<summary>🎬 <strong>Movie Search App</strong> - A sleek interface for discovering films.</summary>
+<br>
+Fetches real-time movie data, trailers, and ratings from the OMDb API, ensuring 95% accurate result matching. Fully mobile responsive.
+<br><br>
+<strong>Tech Stack:</strong>
+&nbsp; <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+&nbsp; <img src="https://img.shields.io/badge/API-Rest-orange?style=for-the-badge" />
+&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+<br><br>
+<a href="#"><strong>Live Demo &rarr;</strong></a>
+&nbsp;&nbsp;
+<a href="#"><strong>View Code &rarr;</strong></a>
+</details>
 
-***
+---
 
-## 🛠 Technical Skillset
+## 🚀 Professional Experience & Achievements
 
-| Stack                | Highlights                                           |
-|----------------------|-----------------------------------------------------|
-| **Programming**      | Python, Java, JavaScript, SQL, R                    |
-| **Web Development**  | HTML5, CSS3, React, Node.js, ExpressJS              |
-| **ML/AI**            | TensorFlow, OpenCV, Model training, NLP             |
-| **Databases**        | MySQL, Data modeling, Advanced CRUD, zero redundancy|
-| **Cloud/Platforms**  | Azure AI, GitHub, Perplexity, VS Code, Postman      |
-| **Certifications**   | Java IT Specialist, Azure AI Fundamentals           |
+**Web Development Intern @ Technical Hub**
+- Built and deployed 3+ interactive web applications, leading to a **20% boost in user engagement**.
+- Optimized front-end architectures with code-splitting and lazy loading, achieving **30% faster page load times**.
+- Championed front-end stability and UI/UX consistency within an Agile development team.
 
-***
+**Certifications**
+- 🏅 Microsoft Certified: Azure AI Fundamentals
+- 🏅 Oracle Certified: Java IT Specialist
 
-## 📚 Education
+---
 
-- **B.Tech, Computer Science (AI & ML)**— Aditya College of Engineering and Technology
-- Data Structures, ML, Deep Learning, NLP, DBMS (Key Domains)
-
-***
-
-## 📫 Connect with Me
-
-- ✉️ 22MH1A4254@acoe.edu.in
-- 🔗 [LinkedIn: PSKKarthik](linkedin.com/in/pskk)
-- 🏅 HackerRank, CodeChef, LeetCode (ask for handles!)
-
-***
-
-## 🌍 Languages
-
-- **English** (Professional)
-- **Telugu** (Native)
-- **Hindi** (Intermediate)
-
-***
-
-### 🔥 Motto
-
-_“Empower ideas. Engineer solutions. Make code your superpower.”_
-
-***
-
-#### 👉 Want to collaborate or learn more?  
-Let’s build tomorrow’s tech—**together, now**.
-
-***
-
-*Badges, widgets, and stats can be added for extra flair—just let me know!*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/20773644/624c91ea-fea0-4c03-a60e-d065d812eb8e/22MH1A4254-HASHIRA.pdf
+> “Empower ideas. Engineer solutions. Make code your superpower.”
