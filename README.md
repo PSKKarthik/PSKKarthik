@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
 Hi! I’m **Sai Krishna Karthik**, a passionate **Computer Science Engineer** working at the crossroads of **Full-Stack Development** and **Artificial Intelligence**.  
 I specialize in **architecting scalable applications and AI-driven systems** that deliver measurable business impact.  
