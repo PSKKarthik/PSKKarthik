@@ -3,7 +3,7 @@
 # Polisetty Sai Krishna Karthik
 ## 🚀 Full-Stack Developer & AI Specialist
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc2bHBsMnFvODk0aXpsbnM3Z2dwb2s4M3V4enBpa3E2c21wZjEzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2z7E4Jp8gO8E4U9d2/giphy.gif" alt="Coding GIF" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VlcTVkZWsxczduOXYwNzJndmQzZjBuemVldDZ6dWx6Z3RzZ3BqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding GIF" width="100%" />
 
 ---
 
