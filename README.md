@@ -5,7 +5,7 @@
 
 <hr style="width:100px; height:4px; background: linear-gradient(90deg, #4F46E5, #0E9F6E); border:none; margin: 0.5rem 0 2rem 0" />
 
-<img src="https://raw.githubusercontent.com/PSKKarthik/PSKKarthik/main/profile-header.svg" alt="Dynamic Header" width="90%" />
+<img src="./profile-header.svg" alt="Dynamic Header" width="90%" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-0E9F6E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" style="animation: pulse 2s infinite; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
@@ -24,12 +24,12 @@
 ## 💻 My Tech Stack
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@
 <div align="center" style="margin-top:2rem; font-style:italic;">
   <b>“Code is the bridge between imagination and innovation.”</b>
   <br/>
-  <img src="https://raw.githubusercontent.com/PSKKarthik/PSKKarthik/main/wave-animated-gif.gif" alt="Waving" width="25%" style="border-radius: 12px; margin-top: 1rem;"/>
+  <img src="./wave-animated-gif.gif" alt="Waving" width="25%" style="border-radius: 12px; margin-top: 1rem;"/>
 </div>
 
 </div>
