@@ -4,6 +4,7 @@
 ## 🚀 Full-Stack Developer & AI Specialist
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VlcTVkZWsxczduOXYwNzJndmQzZjBuemVldDZ6dWx6Z3RzZ3BqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding GIF" width="50%" height="50%">
+
 ---
 
 ### 🔥 About Me
