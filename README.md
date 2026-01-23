@@ -1,113 +1,87 @@
-```markdown
-# 👨‍💻 PSKKarthik | AI & Full-Stack Developer
+# Polisetty Sai Krishna Karthik
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Polisetty+Sai+Krishna+Karthik;Full-Stack+Developer;AI+%2F+ML+Engineer;Code+Architect;Innovation+Enthusiast" alt="Typing SVG">
-
-<p align="center">
-    <a href="https://github.com/PSKKarthik?tab=repositories">
-        <img src="https://img.shields.io/badge/Repositories-12+-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Repositories">
-    </a>
-    <a href="https://leetcode.com/u/PSKKarthik/">
-        <img src="https://img.shields.io/badge/LeetCode-150+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=PSKKarthik&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-    <img src="https://img.shields.io/badge/Status-Available-00FF88?style=for-the-badge&logo=rocket&logoColor=black" alt="Status">
-</p>
-
-</div>
+## Computer Science Engineer | AI & ML | Full-Stack Development
 
 ---
 
-## 🌟 **Executive Summary**
+## GitHub Statistics
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PSKKarthik&show_icons=true&hide_title=true&hide_rank=false" />
 
-```javascript
-const PSKKarthik = {
-    core_stack: ["MERN", "Python", "FastAPI", "MLOps"],
-    education: "B.Tech in Computer Science (AI & ML)",
-    mission: "Engineering intelligent systems that bridge the gap between AI and UX.",
-    fun_fact: "I can debug neural networks but still fight CSS flexbox occasionally. 😅"
-};
-
-```
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PSKKarthik" />
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## About Me
 
-<div align="center">
-
-| Category | Tools & Technologies |
-| --- | --- |
-| **Frontend** |  |
-| **Backend** |  |
-| **AI & ML** |  |
-| **Data & DevOps** |  |
-
-</div>
+Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. Strong foundation in data structures, machine learning, and full-stack development with practical experience in building scalable, user-focused applications. I combine disciplined engineering practices with *vibe coding* — maintaining flow, curiosity, and creativity while writing clean, efficient, and production-ready code. Interested in solving real-world problems through thoughtful system design and data-driven approaches.
 
 ---
 
-## 🏆 **Featured Engineering Projects**
+## Technical Skills
 
-### 🎭 **Emotion Intelligence AI**
+**Languages** <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
 
-*Real-time facial emotion recognition with 98% accuracy.*
+**Frameworks & Libraries** <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
 
-* **Stack:** Python, TensorFlow, OpenCV, Flask.
-* **Outcome:** Developed a low-latency API capable of classifying 7 distinct human emotions in real-time.
-* **[Repo](https://github.com/PSKKarthik/Face-Emotion-Recognition)**
-
-### 💪 **Next-Gen Fitness Platform**
-
-*Full-stack fitness ecosystem with AI-driven personalization.*
-
-* **Stack:** React, Node.js, MongoDB, Redux.
-* **Outcome:** Built an automated workout generator that scales based on user performance data.
-* **[Repo](https://github.com/PSKKarthik/Gym-Website)**
+**Databases & Tools** <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git- F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white" />
 
 ---
 
-## 📊 **GitHub Metrics**
+## Pinned Projects
 
-<div align="center">
+### QueryGenX – Adaptive AI for Cognitive Assessment
 
-<img src="https://github-readme-stats.vercel.app/api?username=PSKKarthik&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PSKKarthik&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&fire=00FF88&ring=00FF88&currStreakLabel=00FF88" width="48%" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-blue" />
+<img src="https://img.shields.io/badge/NLP-purple" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PSKKarthik&theme=react-dark&bg_color=0d1117&hide_border=true&color=00FF88&line=00FF88&point=ffffff" width="100%"/>
-
-</div>
+Adaptive assessment platform designed to evaluate cognitive skills using AI-driven question generation.
 
 ---
 
-## 🌐 **Connect & Collaborate**
+### Face Emotion Recognition
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/pskk">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:22MH1A4254@acoe.edu.in">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://pskkarthik.vercel.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" />
-</a>
+Real-time facial emotion recognition system using convolutional neural networks.
 
-> *"First, solve the problem. Then, write the code."* — **John Johnson**
+---
 
-<p align="center">
-<sub>Built with precision by <b>PSKKarthik</b></sub>
-</p>
+### Movie Search Application
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REST%20API-blue" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 
-```
+Responsive web application integrating the OMDb API for real-time movie data.
 
-```
+---
+
+## Education
+
+B.Tech in Computer Science Engineering (AI & ML)
+Aditya College of Engineering & Technology
+CGPA: 8.65 / 10
+
+---
+
+## Coding Profiles
+
+CodeChef: [https://www.codechef.com/users/skkp](https://www.codechef.com/users/skkp)
+LeetCode: [https://leetcode.com/u/P_18_Skk/](https://leetcode.com/u/P_18_Skk/)
+HackerRank: [https://www.hackerrank.com/profile/p_s_k_Karthik](https://www.hackerrank.com/profile/p_s_k_Karthik)
+
+---
+
+## Contact
+
+Email: [polisettysaikk3@gmail.com](mailto:polisettysaikk3@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/pskk/](https://www.linkedin.com/in/pskk/)
+GitHub: [https://github.com/PSKKarthik](https://github.com/PSKKarthik)
+
+---
+
+This README follows a minimal, recruiter-focused structure inspired by top FAANG-engineer GitHub profiles.
