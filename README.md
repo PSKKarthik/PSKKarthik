@@ -1,80 +1,53 @@
-<div align="center">
-
 # Polisetty Sai Krishna Karthik
+**Computer Science Engineer | AI & ML | Full-Stack Developer**
 
-### Computer Science Engineer | AI & ML | Full-Stack Developer
-*Engineering with Flow & Focus*
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PSKKarthik&show_icons=true&hide_title=true&count_private=true&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="150" src="https://streak-stats.demolab.com?user=PSKKarthik&theme=react&hide_border=true" />
-</a>
-
-<br/><br/>
-
-## 🌊 The Vibe (About Me)
-I am a Computer Science Engineering student specializing in **AI & ML**, but my approach is defined by **Vibe Coding**.
-
-For me, coding isn't just syntax—it's about **maintaining flow, curiosity, and creativity** while shipping production-ready systems. I bridge the gap between disciplined engineering and the "art" of development, ensuring that my code is as clean as the logic behind it. Whether I'm training a neural network or building a full-stack web app, I bring a focus on thoughtful system design and user-centric problem solving.
+<a href="https://www.linkedin.com/in/pskk/">LinkedIn</a> • <a href="mailto:polisettysaikk3@gmail.com">Email</a> • <a href="https://github.com/PSKKarthik">GitHub</a>
 
 ---
 
-## ⚡ The Arsenal
+## 👨‍💻 About Me
+I am a Computer Science Engineering student specializing in **Artificial Intelligence** and **Machine Learning** with strong expertise in **Full-Stack Development**. I focus on building scalable, data-driven applications and solving real-world problems through efficient system design.
 
-**Core**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white" />
-
-**Building Blocks**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-
-**Intelligence**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white" />
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+* **Education:** B.Tech in AI & ML, Aditya College of Engineering & Technology (CGPA: 8.65)
+* **Focus:** Data Structures, Algorithms, Deep Learning, and Web Technologies.
 
 ---
 
-## 🚀 Proof of Flow (Projects)
+## 🛠 Skills
 
-| Project | The Vibe | Tech Stack |
-| :--- | :--- | :--- |
-| **QueryGenX** | *Adaptive AI for Cognitive Assessment.* An intelligent platform that evolves questions based on user performance. | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ML-blue" /> <img src="https://img.shields.io/badge/NLP-purple" /> |
-| **Face Emotion Recognition** | *Real-time Insight.* CNN-based system capable of detecting human emotion on the fly. | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" /> |
-| **Movie Search App** | *Seamless UX.* A responsive search engine integrating OMDb API for instant data retrieval. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/REST%20API-blue" /> |
+**Languages**
+Python, Java, JavaScript, SQL, C++
 
----
+**Web Development**
+React.js, Node.js, Express.js, HTML5, CSS3, REST APIs
 
-## 🎓 Background
+**AI & Machine Learning**
+TensorFlow, OpenCV, Azure AI, NLP, Deep Learning
 
-**B.Tech in Computer Science Engineering (AI & ML)**
-*Aditya College of Engineering & Technology*
-<br/>
-**CGPA:** 8.65 / 10
+**Tools & Databases**
+MySQL, MongoDB, Git, GitHub, VS Code
 
 ---
 
-## 🌐 Connect
+## 🚀 Key Projects
 
-<a href="https://www.linkedin.com/in/pskk/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:polisettysaikk3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/P_18_Skk/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/skkp">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+### QueryGenX – Adaptive AI for Cognitive Assessment
+* **Tech Stack:** Python, Machine Learning, NLP
+* **Description:** An adaptive assessment platform that uses AI to dynamically generate questions based on user performance, providing a personalized cognitive evaluation.
 
-</div>
+### Face Emotion Recognition System
+* **Tech Stack:** OpenCV, TensorFlow, Python
+* **Description:** A real-time computer vision system capable of detecting and classifying human facial emotions with high accuracy using Convolutional Neural Networks (CNNs).
+
+### Movie Search Application
+* **Tech Stack:** React, JavaScript, OMDb API
+* **Description:** A responsive web application that allows users to search for movies in real-time. Features include dynamic filtering, instant data retrieval, and a mobile-friendly UI.
+
+---
+
+## 🏆 Coding Profiles
+* **LeetCode:** [leetcode.com/u/P_18_Skk](https://leetcode.com/u/P_18_Skk/)
+* **CodeChef:** [codechef.com/users/skkp](https://www.codechef.com/users/skkp)
+* **HackerRank:** [hackerrank.com/profile/p_s_k_Karthik](https://www.hackerrank.com/profile/p_s_k_Karthik)
+
+---
