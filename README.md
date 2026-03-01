@@ -9,7 +9,7 @@
 I am a Computer Science Engineering student specializing in **Artificial Intelligence** and **Machine Learning** with strong expertise in **Full-Stack Development**. I focus on building scalable, data-driven applications and solving real-world problems through efficient system design.
 
 * **Education:** B.Tech in AI & ML, Aditya College of Engineering & Technology (CGPA: 8.65)
-* **Focus:** Data Structures, Algorithms, Deep Learning, and Web Technologies.......
+* **Focus:** Data Structures, Algorithms, Deep Learning, and Web Technologies........
 
 ---
 
